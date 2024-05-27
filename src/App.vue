@@ -5,7 +5,7 @@ import Todos from "@/components/Todos.vue";
 import Basics from "@/components/Basics.vue";
 import {ref} from "vue";
 
-const greeting = ref("Hello from parent")
+const greeting = ref("Hello from docker parent")
 const childMsg = ref("No child message yet")
 </script>
 
